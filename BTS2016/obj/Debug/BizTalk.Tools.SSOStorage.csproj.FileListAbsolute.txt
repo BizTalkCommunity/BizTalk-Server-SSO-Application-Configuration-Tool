@@ -1,0 +1,24 @@
+C:\DEV\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.exe.config
+C:\DEV\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.exe
+C:\DEV\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.pdb
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.About.resources
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.ApplicationManager.resources
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Properties.Resources.resources
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.csproj.GenerateResource.Cache
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.exe
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.pdb
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Settings.resources
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Password.resources
+C:\DEV\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOStorage.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.About.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.ApplicationManager.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Password.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.Settings.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOStorage.pdb

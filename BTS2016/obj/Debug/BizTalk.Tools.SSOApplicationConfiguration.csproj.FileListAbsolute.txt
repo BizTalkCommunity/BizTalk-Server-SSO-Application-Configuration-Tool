@@ -1,0 +1,11 @@
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOApplicationConfiguration.exe.config
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOApplicationConfiguration.exe
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\bin\Debug\BizTalk.Tools.SSOApplicationConfiguration.pdb
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.About.resources
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.ApplicationManager.resources
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.Password.resources
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.Properties.Resources.resources
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.Settings.resources
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.csproj.GenerateResource.Cache
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.exe
+C:\Development\Pet Projects\BizTalk.Tools.SSOStorage\obj\Debug\BizTalk.Tools.SSOApplicationConfiguration.pdb
