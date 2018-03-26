@@ -8,9 +8,9 @@ In mid-2009 Microsoft released an MMC snap-in to tackle this exact issue: SSO Co
 Unfortunately, this tool will not work properly at least from BizTalk Server 2013 forward. At first sight, it seems that everything is working properly but when you try to create a key-value pair you will see that nothing happens and no key is created.
 
 To workaround this problem, some community members published a hotfix for the tool:
-* ![BizTalk Server 2013: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2013-Fix-41f3b1e3)
-* ![BizTalk Server 2013 R2: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2013-R2-Fix-5a790391)
-* ![BizTalk Server 2016: BizTalk Server 2016: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2016-Fix-12784c1f).
+* [BizTalk Server 2013: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2013-Fix-41f3b1e3)
+* [BizTalk Server 2013 R2: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2013-R2-Fix-5a790391)
+* [BizTalk Server 2016: BizTalk Server 2016: Fix for SSO Configuration Application MMC Snap-In](https://gallery.technet.microsoft.com/BizTalk-Server-2016-Fix-12784c1f).
 
 In part, these hotfixes solved the issue but we recently realized that the tool even with the hotfix doesn't work properly in multiple environments and to try to uninstall the Microsoft snap-in after the hotfix is "installed" it is a nightmare.
 
