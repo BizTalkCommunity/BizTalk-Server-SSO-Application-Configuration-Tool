@@ -1,0 +1,10 @@
+C:\DEV\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\bin\Debug\BizTalk.Tools.SSOStorage.Tester.exe.config
+C:\DEV\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.csprojResolveAssemblyReference.cache
+C:\DEV\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.Form1.resources
+C:\DEV\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.Properties.Resources.resources
+C:\DEV\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\bin\Debug\BizTalk.Tools.SSOStorage.Tester.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage\BizTalk.Tools.SSOStorage.Tester\obj\Debug\BizTalk.Tools.SSOStorage.Tester.csproj.GenerateResource.Cache
